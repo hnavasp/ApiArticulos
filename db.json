@@ -8,7 +8,7 @@
     },
     {
       "clasificacion": "botaMujer",
-      "imagen": "img/botamujer/2.jpg",
+      "imagen": "../img/botamujer/2.jpg",
       "nombre": "Botin de dama",
       "precio": 10.500
     },
