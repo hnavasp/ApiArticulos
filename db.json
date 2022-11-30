@@ -2,7 +2,7 @@
  "articulos": [
     {
       "clasificacion": "botaMujer",
-      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/01.jpg",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/001.jpg",
       "nombre": "Botin de dama",
       "precio": 15.500
     },
