@@ -26,33 +26,33 @@
     },
     {
       "clasificacion": "sandaliamujer",
-      "imagen": "Nuevo Estilo page/img/sandaliamujer/1.jpg",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/1.jpg"",
       "nombre": "Sandalía de dama",
       "precio": 8.500
     },
     {
       "clasificacion": "sandaliamujer",
-      "imagen": "Nuevo Estilo page/img/sandaliamujer/2.jpg",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/2.jpg",
       "nombre": "Sandalía de dama",
       "precio": 8.500
     },
     {
       "clasificacion": "sandaliamujer",
-      "imagen": "Nuevo Estilo page/img/sandaliamujer/3.jpg",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/3.jpg",
       "nombre": "Sandalía de dama",
       "precio": 8.500
     },
 
     {
       "clasificacion": "sandaliamujer",
-      "imagen": "Nuevo Estilo page/img/sandaliamujer/4.jpg",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/4.jpg",
       "nombre": "Sandalía de dama",
       "precio": 8.500
     },
 
     {
       "clasificacion": "taconmujer",
-      "imagen": "Nuevo Estilo page/img/taconmujer/1.jpg",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/1.jpg",
       "nombre": "Tacon de dama",
       "precio": 10.500
     },
