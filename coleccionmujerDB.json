@@ -1,0 +1,109 @@
+{
+  "articulos": [
+    {
+      "clasificacion": "botaMujer1",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/001.jpg",
+      "nombre": "Botin de dama",
+      "precio": 15.500
+    },
+    {
+      "clasificacion": "botaMujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/002.jpg",
+      "nombre": "Botin de dama",
+      "precio": 10.500
+    },
+    {
+      "clasificacion": "botaMujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/003.jpg",
+      "nombre": "Botin de dama",
+      "precio": 20.500
+    },
+    {
+      "clasificacion": "botaMujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/004.jpg",
+      "nombre": "Botin de dama",
+      "precio": 11.500
+    },
+    {
+      "clasificacion": "sandaliamujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/1.jpg",
+      "nombre": "Sandalía de dama",
+      "precio": 8.500
+    },
+    {
+      "clasificacion": "sandaliamujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/2.jpg",
+      "nombre": "Sandalía de dama",
+      "precio": 8.500
+    },
+    {
+      "clasificacion": "sandaliamujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/3.jpg",
+      "nombre": "Sandalía de dama",
+      "precio": 8.500
+    },
+
+    {
+      "clasificacion": "sandaliamujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/sandaliamujer/4.jpg",
+      "nombre": "Sandalía de dama",
+      "precio": 8.500
+    },
+
+    {
+      "clasificacion": "taconmujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/1.jpg",
+      "nombre": "Tacon de dama",
+      "precio": 10.500
+    },
+
+    {
+      "clasificacion": "taconmujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/2.jpg",
+      "nombre": "Tacon de dama",
+      "precio": 11.500
+    },
+
+    {
+      "clasificacion": "taconmujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/3.jpg",
+      "nombre": "Tacon de dama",
+      "precio": 12.500
+    },
+
+    {
+      "clasificacion": "taconmujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/4.jpg",
+      "nombre": "Tacon de dama",
+      "precio": 11.500
+    },
+
+    {
+      "clasificacion": "tenismujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/1.jpg",
+      "nombre": "Tennis de dama",
+      "precio": 12.500
+    },
+
+    {
+      "clasificacion": "tenismujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/2.jpg",
+      "nombre": "Tennis de dama",
+      "precio": 10.500
+    },
+
+    {
+      "clasificacion": "tenismujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/3.jpg",
+      "nombre": "Tennis de dama",
+      "precio": 11.500
+    },
+
+    {
+      "clasificacion": "tenismujer",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/4.jpg",
+      "nombre": "Tennis de dama",
+      "precio": 12.500
+    }
+  ]
+}
