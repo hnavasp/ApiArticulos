@@ -1,0 +1,38 @@
+{
+  "articulos": [
+    {
+      "clasificacion": "ofertas",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/1.jpg",
+      "nombre": "Mocasin de dama",
+      "precio": 5.500
+    },
+
+    {
+      "clasificacion": "ofertas",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/2.jpg",
+      "nombre": "Tacon de dama",
+      "precio": 5.500
+    },
+
+    {
+      "clasificacion": "ofertas",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/3.jpg",
+      "nombre": "Mocasin de dama",
+      "precio": 5.500
+    },
+
+    {
+      "clasificacion": "ofertas",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/4.jpg",
+      "nombre": "Tacon de dama",
+      "precio": 5.500
+    },
+
+    {
+      "clasificacion": "ofertas",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/5.jpg",
+      "nombre": "Sandalia de dama",
+      "precio": 5.500
+    }
+  ]
+}
