@@ -151,50 +151,50 @@
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/1.jpg",
-      "nombre": "Escolar   niños",
-      "precio": 10.500
+      "nombre": "Escolar niño/a",
+      "precio": 10500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/2.jpg",
-      "nombre": "Escolar   niños",
-      "precio": 10.500
+      "nombre": "Escolar niño/a",
+      "precio": 10500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/3.jpg",
-      "nombre": "Escolar   niños",
-      "precio": 10.500
+      "nombre": "Escolar niño/a",
+      "precio": 10500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/4.jpg",
-      "nombre": "Escolar   niños",
-      "precio": 10.500
+      "nombre": "Escolar niño/a",
+      "precio": 10500
     },
 
     {
       "clasificacion": "tennisninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tennisninos/1.jpg",
-      "nombre": "Tennis   niños.",
-      "precio": 10.500
+      "nombre": "Tennis niño/a",
+      "precio": 10500
     },
 
     {
       "clasificacion": "tennisninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tennisninos/2.jpg",
-      "nombre": "Tennis   niños.",
-      "precio": 10.500
+      "nombre": "Tennis niño/a",
+      "precio": 10500
     },
 
     {
       "clasificacion": "tennisninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tennisninos/3.jpg",
-      "nombre": "Tennis   niños.",
-      "precio": 10.500
+      "nombre": "Tennis niño/a",
+      "precio": 10500
     }
   ]
 }
