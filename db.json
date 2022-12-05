@@ -3,25 +3,25 @@
     {
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/001.jpg",
-      "nombre": "Botines Dama",
+      "nombre": "Botines Damas",
       "precio": 15.500
     },
     {
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/002.jpg",
-      "nombre": "Botines Dama",
+      "nombre": "Botines Damas",
       "precio": 10.500
     },
     {
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/003.jpg",
-      "nombre": "Botines Dama",
+      "nombre": "Botines Damas",
       "precio": 20.500
     },
     {
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/004.jpg",
-      "nombre": "Botines Dama",
+      "nombre": "Botines Damas",
       "precio": 11.500
     },
     {
@@ -53,147 +53,147 @@
     {
       "clasificacion": "taconmujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/1.jpg",
-      "nombre": "Tacónes Dama",
+      "nombre": "Tacones Damas",
       "precio": 10.500
     },
 
     {
       "clasificacion": "taconmujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/2.jpg",
-      "nombre": "Tacónes Dama",
+      "nombre": "Tacones Damas",
       "precio": 11.500
     },
 
     {
       "clasificacion": "taconmujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/3.jpg",
-      "nombre": "Tacónes Dama",
+      "nombre": "Tacones Damas",
       "precio": 12.500
     },
 
     {
       "clasificacion": "taconmujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/taconmujer/4.jpg",
-      "nombre": "Tacónes Dama",
+      "nombre": "Tacones Damas",
       "precio": 11.500
     },
 
     {
       "clasificacion": "tenismujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/1.jpg",
-      "nombre": "Tennis Dama",
+      "nombre": "Tennis Damas.",
       "precio": 12.500
     },
 
     {
       "clasificacion": "tenismujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/2.jpg",
-      "nombre": "Tennis Dama",
+      "nombre": "Tennis Damas.",
       "precio": 10.500
     },
 
     {
       "clasificacion": "tenismujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/3.jpg",
-      "nombre": "Tennis Dama",
+      "nombre": "Tennis Damas.",
       "precio": 11.500
     },
 
     {
       "clasificacion": "tenismujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tenismujer/4.jpg",
-      "nombre": "Tennis Dama",
+      "nombre": "Tennis Damas.",
       "precio": 12.500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/1.jpg",
-      "nombre": "Burros Caballero",
+      "nombre": "Burros hombre",
       "precio": 11.500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/2.jpg",
-      "nombre": "Burros Caballero",
+      "nombre": "Burros hombre",
       "precio": 12.500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/3.jpg",
-      "nombre": "Burros Caballero",
+      "nombre": "Burros hombre",
       "precio": 11.500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/4.jpg",
-      "nombre": "Burros Caballero",
+      "nombre": "Burros hombre",
       "precio": 13.500
     },
 
     {
       "clasificacion": "mocasinhombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/1.jpg",
-      "nombre": "Mocasín Caballero",
+      "nombre": "Mocasín hombre",
       "precio": 13.500
     },
 
     {
       "clasificacion": "mocasinhombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/2.jpg",
-      "nombre": "Mocasín Caballero",
+      "nombre": "Mocasín hombre",
       "precio": 13.500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/1.jpg",
-      "nombre": "Escolar niño/a",
+      "nombre": "Escolar niños",
       "precio": 10.500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/2.jpg",
-      "nombre": "Escolar niño/a",
+      "nombre": "Escolar niños",
       "precio": 10.500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/3.jpg",
-      "nombre": "Escolar niño/a",
+      "nombre": "Escolar niños",
       "precio": 10.500
     },
 
     {
       "clasificacion": "Escolarninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/Escolarninos/4.jpg",
-      "nombre": "Escolar niño/a",
+      "nombre": "Escolar niños",
       "precio": 10.500
     },
 
     {
       "clasificacion": "tennisninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tennisninos/1.jpg",
-      "nombre": "Tennis niño/a",
+      "nombre": "Tennis niños",
       "precio": 10.500
     },
 
     {
       "clasificacion": "tennisninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tennisninos/2.jpg",
-      "nombre": "Tennis niño/a",
+      "nombre": "Tennis niños.",
       "precio": 10.500
     },
 
     {
       "clasificacion": "tennisninos",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/tennisninos/3.jpg",
-      "nombre": "Tennis niño/a",
+      "nombre": "Tennis niños.",
       "precio": 10.500
     }
   ]
