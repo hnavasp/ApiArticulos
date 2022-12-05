@@ -1,15 +1,15 @@
 {
   "articulos": [
     {
-      "clasificacion": "botaMujer ",
+      "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/001.jpg",
-      "nombre": "Botines Dama",
+      "nombre": "Botines Dama ",
       "precio": 15.500
     },
     {
-      "clasificacion": "botaMujer ",
+      "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/002.jpg",
-      "nombre": "Botines Dama",
+      "nombre": "Botines Dama.",
       "precio": 10.500
     },
     {
