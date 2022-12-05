@@ -4,35 +4,35 @@
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/1.jpg",
       "nombre": "Mocasín Damas",
-      "precio": 5.500
+      "precio": 5500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/2.jpg",
       "nombre": "Tacones Damas",
-      "precio": 5.500
+      "precio": 5500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/3.jpg",
       "nombre": "Tacones Damas",
-      "precio": 5.500
+      "precio": 5500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/4.jpg",
       "nombre": "Bajo de Damas",
-      "precio": 5.500
+      "precio": 5500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/5.jpg",
       "nombre": "Sandalía Dama",
-      "precio": 5.500
+      "precio": 5500
     }
   ]
 }
