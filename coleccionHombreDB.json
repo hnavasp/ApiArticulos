@@ -4,42 +4,42 @@
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/1.jpg",
       "nombre": "Burros hombre",
-      "precio": 11.500
+      "precio": 11500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/2.jpg",
       "nombre": "Burros hombre",
-      "precio": 12.500
+      "precio": 12500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/3.jpg",
       "nombre": "Burros hombre",
-      "precio": 11.500
+      "precio": 11500
     },
 
     {
       "clasificacion": "burrohombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/burrohombre/4.jpg",
       "nombre": "Burros hombre",
-      "precio": 13.500
+      "precio": 13500
     },
 
     {
       "clasificacion": "mocasinhombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/1.jpg",
-      "nombre": "Mocasín hombre",
-      "precio": 13.500
+      "nombre": "Mocas hombre",
+      "precio": 13500
     },
 
     {
       "clasificacion": "mocasinhombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/2.jpg",
-      "nombre": "Mocasín hombre",
-      "precio": 13.500
+      "nombre": "Mocas hombre",
+      "precio": 13500
     }
   ]
 }
