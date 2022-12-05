@@ -4,19 +4,19 @@
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/001.jpg",
       "nombre": "Botines Damas",
-      "precio": 15.500
+      "precio": 15500
     },
     {
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/002.jpg",
       "nombre": "Botines Damas",
-      "precio": 10.500
+      "precio": 10500
     },
     {
       "clasificacion": "botaMujer",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/botamujer/003.jpg",
       "nombre": "Botines Damas",
-      "precio": 20.500
+      "precio": 20500
     },
     {
       "clasificacion": "botaMujer",
@@ -137,15 +137,15 @@
     {
       "clasificacion": "mocasinhombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/1.jpg",
-      "nombre": "Mocasín hombre",
-      "precio": 13.500
+      "nombre": "Mocas hombre",
+      "precio": 13500
     },
 
     {
       "clasificacion": "mocasinhombre",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/2.jpg",
-      "nombre": "Mocasín hombre",
-      "precio": 13.500
+      "nombre": "Mocas hombre",
+      "precio": 13500
     },
 
     {
