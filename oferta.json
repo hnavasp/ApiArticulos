@@ -3,35 +3,35 @@
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/1.jpg",
-      "nombre": "Mocasin de dama",
+      "nombre": "Mocasín Damas",
       "precio": 5.500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/2.jpg",
-      "nombre": "Tacon de dama",
+      "nombre": "Tacones Damas",
       "precio": 5.500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/3.jpg",
-      "nombre": "Mocasin de dama",
+      "nombre": "Tacones Damas",
       "precio": 5.500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/4.jpg",
-      "nombre": "Tacon de dama",
+      "nombre": "Bajo de Damas",
       "precio": 5.500
     },
 
     {
       "clasificacion": "ofertas",
       "imagen": "https://Developer77-77.github.io/ApiArticulos/img/ofertas/5.jpg",
-      "nombre": "Sandalia de dama",
+      "nombre": "Sandalía Dama",
       "precio": 5.500
     }
   ]
