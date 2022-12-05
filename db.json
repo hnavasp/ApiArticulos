@@ -133,6 +133,19 @@
       "nombre": "Burros hombre",
       "precio": 13500
     },
+    {
+      "clasificacion": "mocasinhombre",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/1.jpg",
+      "nombre": "Mocas hombre",
+      "precio": 15500
+    },
+
+    {
+      "clasificacion": "mocasinhombre",
+      "imagen": "https://Developer77-77.github.io/ApiArticulos/img/mocasinhombre/2.jpg",
+      "nombre": "Mocas hombre",
+      "precio": 17500
+    },
 
     {
       "clasificacion": "mocasinhombre",
